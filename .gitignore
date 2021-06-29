@@ -63,3 +63,6 @@ typings/
 
 #spring boot java build output
 /target
+
+#reactjs build output
+/frontend/build
